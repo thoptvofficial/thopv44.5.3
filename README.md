@@ -11,7 +11,5 @@ Do also visit https://googolplex.live/ for awesome movies, tvseries watchable on
 TV Auth Code Demo
 https://qq11.gamechanger.workers.dev/
 
-https://gambyan.buzz/apiv2/tulip/sun.m3u8?id=14020&tvauth=[EnterAuthCodeHere]
-
-Direct Demo Added
+Direct Demo Added (SunTV Channel)
 https://demo1.gamechanger.workers.dev/
