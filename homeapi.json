@@ -1,0 +1,533 @@
+[
+  {
+    "name": "Featured",
+    "tags": "",
+    "type": "activity",
+    "items": [
+      {
+        "name": "Live Sports",
+        "icon": "images/sports.jpg",
+        "link": "sports",
+        "description": "",
+        "config": "content:sports",
+        "class": "btn-success"
+      },
+      {
+        "name": "Favourites",
+        "icon": "images/favourites.jpg",
+        "link": "favourites",
+        "description": "",
+        "config": "content:favourites",
+        "class": "btn-danger"
+      },
+      {
+        "name": "Snowflake Sports",
+        "icon": "images/livsports.jpg",
+        "link": "livsports",
+        "description": "Series: Sony Liv \nRegion: India",
+        "config": "episodespaging:on;content:series;layout1:single;layout2:seasons;layout3:episodes;ottseries:livsports",
+        "class": "btn-primary"
+      },
+      {
+        "name": "Live Events",
+        "icon": "images/live.jpg",
+        "link": "live",
+        "description": "Live Events",
+        "config": "",
+        "class": "btn-danger"
+      }
+    ]
+  },
+  {
+    "name": "Live TV",
+    "tags": "livetv",
+    "type": "activity",
+    "items": [
+      {
+        "name": "Search TV",
+        "icon": "images/searchtv.jpg",
+        "link": "searchtv",
+        "description": "",
+        "config": "content:globalsearch",
+        "class": "btn-default"
+      },
+      {
+        "name": "Jasmine TV",
+        "icon": "images/jasmine.jpg",
+        "link": "jasmine",
+        "description": "Channels: 600+ \nRegion: India",
+        "config": "",
+        "class": "btn-secondary"
+      },
+      {
+        "name": "Tulip TV",
+        "icon": "images/tulip.jpg",
+        "link": "tulip",
+        "description": "Channels: 300+ \nRegion: India",
+        "config": "",
+        "class": "btn-info"
+      },
+      {
+        "name": "Star Premium TV",
+        "icon": "images/starpremium.jpg",
+        "link": "starpremium",
+        "description": "Requires JIO Network to Start",
+        "config": "",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Daisy TV",
+        "icon": "images/daisy.jpg",
+        "link": "daisy",
+        "description": "Channels: 100+ \nRegion: Global",
+        "config": "",
+        "class": "btn-secondary"
+      },
+      {
+        "name": "Heather TV",
+        "icon": "images/heather.jpg",
+        "link": "heather",
+        "description": "Channels: 900+ \nRegion: Global",
+        "config": "",
+        "class": "btn-primary"
+      },
+      {
+        "name": "Sunflower TV",
+        "icon": "images/sunflower.jpg",
+        "link": "sunflower",
+        "description": "WorldWide 1500+ \nRegion: Indian users use vpn",
+        "config": "",
+        "class": "btn-info"
+      },
+      {
+        "name": "Iris TV",
+        "icon": "images/iris.jpg",
+        "link": "iris",
+        "description": "Channels: 500+ \nRegion: Global",
+        "config": "",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Scilla TV",
+        "icon": "images/scilla.jpg",
+        "link": "scilla",
+        "description": "Channels: 1000+ \nRegion: Global",
+        "config": "",
+        "class": "btn-danger"
+      },
+      {
+        "name": "Xyris TV",
+        "icon": "images/xyris.jpg",
+        "link": "xyris",
+        "description": "Channels: 2000+ \nRegion: Global",
+        "config": "",
+        "class": "btn-default"
+      },
+      {
+        "name": "Religious TV",
+        "icon": "images/religious.jpg",
+        "link": "religious",
+        "description": "Channels: 50+ \nRegion: Global",
+        "config": "",
+        "class": "btn-secondary"
+      }
+    ]
+  },
+  {
+    "name": "Movies",
+    "tags": "movies",
+    "type": "activity",
+    "items": [
+      {
+        "name": "Search Movies",
+        "icon": "images/searchmovies.jpg",
+        "link": "searchmovies",
+        "description": "",
+        "config": "content:globalsearch",
+        "class": "btn-default"
+      },
+      {
+        "name": "New Movies",
+        "icon": "images/utube.jpg",
+        "link": "youmovies",
+        "description": "Movies: 1000+ \nRegion: Global",
+        "config": "multisourceapi:on;",
+        "class": "btn-rose"
+      },
+      {
+        "name": "Dubbed Movies",
+        "icon": "images/dubbed.jpg",
+        "link": "dubbedmovies",
+        "description": "Movies: 100+ \nRegion: Global",
+        "config": "",
+        "class": "btn-default"
+      },
+      {
+        "name": "Max movies",
+        "icon": "images/maxmovies.jpg",
+        "link": "maxmovies",
+        "description": "Movies: Lots \nRegion: Global",
+        "config": "layout:hybrid;showmore:on;actionbarsearch:on",
+        "class": "btn-info"
+      },
+      {
+        "name": "Whatstar Movies",
+        "icon": "images/wstar.jpg",
+        "link": "wstar",
+        "description": "Movies: Lots\nRegion: India",
+        "config": "layout:hybrid;showmore:on;actionbarsearch:on;ottmovies:hotstar",
+        "class": "btn-info"
+      },
+      {
+        "name": "Velvet Movies",
+        "icon": "images/velvetmovies.jpg",
+        "link": "velvetmovies",
+        "description": "Movies: 500+ \nRegion: India",
+        "config": "layout:hybrid;actionbarsearch:on;drmapicall:on",
+        "class": "btn-info"
+      },
+      {
+        "name": "Snowflake Movies",
+        "icon": "images/liv.jpg",
+        "link": "livmovies",
+        "description": "Movies: 1000 \nRegion: India",
+        "config": "layout:hybrid;showmore:on;actionbarsearch:on;ottmovies:sony",
+        "class": "btn-primary"
+      },
+      {
+        "name": "Zephy Movies",
+        "icon": "images/zee.jpg",
+        "link": "zee",
+        "description": "Movies: 2000+ \nRegion: Global",
+        "config": "actionbarsearch:on;drmapicall:on",
+        "class": "btn-default"
+      },
+      {
+        "name": "Oho Movies",
+        "icon": "images/ohomovies.jpg",
+        "link": "ohomovies",
+        "description": "Movies: 70+ \nRegion: Global",
+        "config": "drmapicall:on;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Beebalm Movies",
+        "icon": "images/beebalmmovies.jpg",
+        "link": "beebalmmovies",
+        "description": "Kids \nRegion: Global",
+        "config": "drmapicall:on;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Rampage Movies",
+        "icon": "images/rampagemovies.jpg",
+        "link": "rampagemovies",
+        "description": "Movies: 3500+ \nRegion: Global",
+        "config": "",
+        "class": "btn-default"
+      },
+      {
+        "name": "Epicion Movies",
+        "icon": "images/epicionspecials.jpg",
+        "link": "epicionspecials",
+        "description": "Shorts: 100 \nRegion: Global",
+        "config": "drmapicall:on",
+        "class": "btn-default"
+      },
+      {
+        "name": "Lotus Movies",
+        "icon": "images/lotusmovies.jpg",
+        "link": "lotusmovies",
+        "description": "Movies: 100+ \nRegion: Global",
+        "config": "",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Hullabaloo movies",
+        "icon": "images/hullabaloomovies.jpg",
+        "link": "hullabaloomovies",
+        "description": "Movies: 100+ \nRegion: Global",
+        "config": "actionbarsearch:on;drmapicall:on;",
+        "class": "btn-danger"
+      },
+      {
+        "name": "Cine Movies",
+        "icon": "images/cinemovies.jpg",
+        "link": "cinemovies",
+        "description": "Movies: Lots\nRegion: Global",
+        "config": "multisourceapi:on;actionbarsearch:on;",
+        "class": "btn-info"
+      },
+      {
+        "name": "Mallow Movies",
+        "icon": "images/mallowmovies.jpg",
+        "link": "mallowmovies",
+        "description": "Movies: Lots\nRegion: Global",
+        "config": "drmapicall:on;",
+        "class": "btn-success"
+      },
+      {
+        "name": "Cinevo Movies",
+        "icon": "images/cinevomovies.jpg",
+        "link": "cinevomovies",
+        "description": "Movies: Lots\nRegion: Global",
+        "config": "drmapicall:on;",
+        "class": "btn-secondary"
+      },
+      {
+        "name": "Oyster Movies",
+        "icon": "images/oyster.jpg",
+        "link": "oyster",
+        "description": "Movies: 1000+ \nRegion: Global",
+        "config": "",
+        "class": "btn-primary"
+      },
+      {
+        "name": "Snap Movies",
+        "icon": "images/snap.jpg",
+        "link": "snap",
+        "description": "Movies: 1000+ \nRegion: Global",
+        "config": "drmapicall:on;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Ace Movies",
+        "icon": "images/acemovies.jpg",
+        "link": "acemovies",
+        "description": "Movies: 1000+ \nRegion: Global",
+        "config": "drmapicall:on;actionbarsearch:on",
+        "class": "btn-default"
+      },
+      {
+        "name": "Cineplex Movies",
+        "icon": "images/cineplex.jpg",
+        "link": "cineplex",
+        "description": "Movies: Lots \nRegion: Global",
+        "config": "actionbarsearch:on;multisourceapi:on",
+        "class": "btn-secondary"
+      },
+      {
+        "name": "Majestic Movies",
+        "icon": "images/majesticmovies.jpg",
+        "link": "majesticmovies",
+        "description": "Movies: 1000+ \nRegion: Global",
+        "config": "",
+        "class": "btn-default"
+      }
+    ]
+  },
+  {
+    "name": "TV Series",
+    "tags": "series",
+    "type": "activity",
+    "items": [
+      {
+        "name": "Search TV Series",
+        "icon": "images/searchseries.jpg",
+        "link": "searchseries",
+        "description": "",
+        "config": "content:globalsearch",
+        "class": "btn-default"
+      },
+      {
+        "name": "New Series",
+        "icon": "images/youseries.jpg",
+        "link": "youseries",
+        "description": "New Series \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-rose"
+      },
+      {
+        "name": "Calendula",
+        "icon": "images/calendula.jpg",
+        "link": "calendula",
+        "description": "Documentary\nRegion:Global",
+        "config": "content:series;layout1:single;layout2:episodes;",
+        "class": "btn-default"
+      },
+      {
+        "name": "Max Series",
+        "icon": "images/maxseries.jpg",
+        "link": "maxseries",
+        "description": "Series: MX \nRegion: Global",
+        "config": "showmore:on;actionbarsearch:on;content:series;layout1:hybrid;layout2:seasons;layout3:episodes;",
+        "class": "btn-info"
+      },
+      {
+        "name": "Beebalm Series",
+        "icon": "images/beebalm.jpg",
+        "link": "beebalm",
+        "description": "Kids \nRegion: Global",
+        "config": "drmapicall:on;content:series;layout1:single;layout2:seasons;layout3:episodes;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Anime",
+        "icon": "images/anime.jpg",
+        "link": "anime",
+        "description": "Anime \nRegion:Global",
+        "config": "multisourceapi:on;content:series;layout1:single;layout2:episodes;",
+        "class": "btn-default"
+      },
+      {
+        "name": "Velvet kids",
+        "icon": "images/velvetkids.jpg",
+        "link": "velvetkids",
+        "description": "Series: Voot Kids \nRegion: Global",
+        "config": "drmapicall:on;episodespaging:on;content:series;layout1:single;layout2:episodes;",
+        "class": "btn-default"
+      },
+      {
+        "name": "Whatstar Series",
+        "icon": "images/whatstar.jpg",
+        "link": "whatstar",
+        "description": "Series: Hotstar \nRegion: India",
+        "config": "showmore:on;actionbarsearch:on;content:series;layout1:hybrid;layout2:seasons;layout3:episodes;ottseries:hotstar",
+        "class": "btn-info"
+      },
+      {
+        "name": "Snowflake Series",
+        "icon": "images/snowflake.jpg",
+        "link": "livseries",
+        "description": "Series: Sony Liv \nRegion: India",
+        "config": "showmore:on;actionbarsearch:on;episodespaging:on;content:series;layout1:hybrid;layout2:seasons;layout3:episodes;ottseries:sony",
+        "class": "btn-primary"
+      },
+      {
+        "name": "Velvet Series",
+        "icon": "images/velvet.jpg",
+        "link": "velvet",
+        "description": "Series: Voot \nRegion: India",
+        "config": "actionbarsearch:on;drmapicall:on;episodespaging:on;content:series;layout1:hybrid;layout2:seasons;layout3:episodes;ottseries:voot",
+        "class": "btn-info"
+      },
+      {
+        "name": "Zephy Series",
+        "icon": "images/zephy.jpg",
+        "link": "zephy",
+        "description": "Series: Zee5 \nRegion: Global",
+        "config": "drmapicall:on;actionbarsearch:on;episodespaging:on;content:series;layout1:single;layout2:seasons;layout3:episodes;",
+        "class": "btn-default"
+      },
+      {
+        "name": "Hullabaloo Series",
+        "icon": "images/hullabaloo.jpg",
+        "link": "hullabaloo",
+        "description": "Series: Hoichoi \nRegion: Global",
+        "config": "drmapicall:on;content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-danger"
+      },
+      {
+        "name": "Rampage Series",
+        "icon": "images/rampage.jpg",
+        "link": "rampage",
+        "description": "Series: Hungama \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-default"
+      },
+      {
+        "name": "Epicion Series",
+        "icon": "images/epicion.jpg",
+        "link": "epicion",
+        "description": "Series: Epic \nRegion: Global",
+        "config": "showmore:on;content:series;layout1:hybrid;layout2:seasons;layout3:episodes;drmapicall:on",
+        "class": "btn-default"
+      },
+      {
+        "name": "Lotus Series",
+        "icon": "images/lotus.jpg",
+        "link": "lotus",
+        "description": "Series: Shemaroo \nRegion: India",
+        "config": "content:series;layout1:single;layout2:episodes;",
+        "class": "btn-info"
+      },
+      {
+        "name": "Oho Series",
+        "icon": "images/oho.jpg",
+        "link": "oho",
+        "description": "Series: Aha \nRegion: Global",
+        "config": "drmapicall:on;content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Ulmu Series",
+        "icon": "images/ulmu.jpg",
+        "link": "ulmu",
+        "description": "Series: Ullu \nRegion: Global",
+        "config": "multisourceapi:on;content:series;layout1:single;layout2:episodes;",
+        "class": "btn-success"
+      },
+      {
+        "name": "Alto Series",
+        "icon": "images/alto.jpg",
+        "link": "alto",
+        "description": "Series: Alto \nRegion: India",
+        "config": "content:series;layout1:single;layout2:episodes;",
+        "class": "btn-success"
+      },
+      {
+        "name": "Series",
+        "icon": "images/series.jpg",
+        "link": "series",
+        "description": "Series: Addatimes, Viu \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Cine Series",
+        "icon": "images/cineseries.jpg",
+        "link": "cineseries",
+        "description": "Series: TV Series \nRegion: Global",
+        "config": "multisourceapi:on;actionbarsearch:on;content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-info"
+      },
+      {
+        "name": "Mallow Series",
+        "icon": "images/mallow.jpg",
+        "link": "mallow",
+        "description": "Series: TV Series \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-warning"
+      },
+      {
+        "name": "Cinevo series",
+        "icon": "images/cinevo.jpg",
+        "link": "cinevo",
+        "description": "Series: TV Series \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-secondary"
+      },
+      {
+        "name": "Trillium series",
+        "icon": "images/trillium.jpg",
+        "link": "trillium",
+        "description": "Series: TV Series \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:hybrid;",
+        "class": "btn-info"
+      },
+      {
+        "name": "Majestic series",
+        "icon": "images/majestic.jpg",
+        "link": "majestic",
+        "description": "Series: TV Series \nRegion: Global",
+        "config": "content:series;layout1:single;layout2:episodes;",
+        "class": "btn-default"
+      }
+    ]
+  },
+  {
+    "name": "Radio",
+    "tags": "",
+    "type": "activity",
+    "items": [
+      {
+        "name": "Radio",
+        "icon": "images/radio.jpg",
+        "link": "radio",
+        "description": "World Radio",
+        "config": "content:radio",
+        "class": "btn-secondary"
+      }
+    ]
+  }
+]
